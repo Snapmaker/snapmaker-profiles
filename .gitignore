@@ -1,8 +1,0 @@
-# Ignore everything at root level
-/*
-
-# Except these
-!Snapmaker/
-!Snapmaker.json
-!.DS_Store
-!.gitignore
