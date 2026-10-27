@@ -2,7 +2,7 @@
     "type": "filament",
     "from": "system",
     "instantiation": "true",
-    "name": "Generic TPU 95A HF",
+    "name": "Generic TPU 95A HF @U1 0.4 nozzle",
     "setting_id": "GFSU00_00",
     "inherits": "Generic TPU 95A HF @U1 base",
     "compatible_printers": [
@@ -320,5 +320,6 @@
     "textured_plate_temp_initial_layer": [
         "35"
     ],
-    "version": "0.0.0.0"
+    "version": "0.0.0.0",
+    "renamed_from": "Generic TPU 95A HF"
 }

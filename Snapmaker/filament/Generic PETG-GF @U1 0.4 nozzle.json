@@ -2,7 +2,7 @@
     "type": "filament",
     "from": "system",
     "instantiation": "true",
-    "name": "Generic PETG-GF",
+    "name": "Generic PETG-GF @U1 0.4 nozzle",
     "setting_id": "GFSG50_022",
     "inherits": "Generic PETG-GF @U1 base",
     "fan_cooling_layer_time": [
@@ -320,5 +320,6 @@
     "textured_cool_plate_temp_initial_layer": [
         "40"
     ],
-    "version": "0.0.0.0"
+    "version": "0.0.0.0",
+    "renamed_from": "Generic PETG-GF"
 }
