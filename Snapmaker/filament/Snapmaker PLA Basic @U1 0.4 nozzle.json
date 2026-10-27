@@ -2,7 +2,7 @@
     "type": "filament",
     "from": "system",
     "instantiation": "true",
-    "name": "Snapmaker PLA Basic @U1",
+    "name": "Snapmaker PLA Basic @U1 0.4 nozzle",
     "setting_id": "1195313935011",
     "inherits": "Snapmaker PLA Basic @U1 base",
     "compatible_printers": [
@@ -324,5 +324,6 @@
     ],
     "filament_unload_time": [
         "2"
-    ]
+    ],
+    "renamed_from": "Snapmaker PLA Basic @U1"
 }

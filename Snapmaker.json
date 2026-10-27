@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.05.01",
+  "version": "02.03.05.02",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -1145,8 +1145,8 @@
       "sub_path": "filament/Snapmaker PLA Basic @U1 base.json"
     },
     {
-      "name": "Snapmaker PLA Basic @U1",
-      "sub_path": "filament/Snapmaker PLA Basic @U1.json"
+      "name": "Snapmaker PLA Basic @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PLA Basic @U1 0.4 nozzle.json"
     },
     {
       "name": "Snapmaker PLA SnapSpeed",
@@ -1159,10 +1159,6 @@
     {
       "name": "Snapmaker PLA SnapSpeed @Dual",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @Dual.json"
-    },
-    {
-      "name": "Snapmaker PLA SnapSpeed @U1 base",
-      "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 base.json"
     },
     {
       "name": "Snapmaker PLA SnapSpeed @U1 base",
@@ -1193,24 +1189,24 @@
       "sub_path": "filament/Polymaker General PLA Family @U1 base.json"
     },
     {
-      "name": "Polymaker General PLA Family @U1",
-      "sub_path": "filament/Polymaker General PLA Family @U1.json"
+      "name": "Polymaker General PLA Family @U1 0.4 nozzle",
+      "sub_path": "filament/Polymaker General PLA Family @U1 0.4 nozzle.json"
     },
     {
       "name": "Polymaker Silk PLA Family @U1 base",
       "sub_path": "filament/Polymaker Silk PLA Family @U1 base.json"
     },
     {
-      "name": "Polymaker Silk PLA Family @U1",
-      "sub_path": "filament/Polymaker Silk PLA Family @U1.json"
+      "name": "Polymaker Silk PLA Family @U1 0.4 nozzle",
+      "sub_path": "filament/Polymaker Silk PLA Family @U1 0.4 nozzle.json"
     },
     {
       "name": "Polymaker Tough PLA Family @U1 base",
       "sub_path": "filament/Polymaker Tough PLA Family @U1 base.json"
     },
     {
-      "name": "Polymaker Tough PLA Family @U1",
-      "sub_path": "filament/Polymaker Tough PLA Family @U1.json"
+      "name": "Polymaker Tough PLA Family @U1 0.4 nozzle",
+      "sub_path": "filament/Polymaker Tough PLA Family @U1 0.4 nozzle.json"
     },
     {
       "name": "Snapmaker PLA Wood @U1 base",
@@ -1525,10 +1521,6 @@
       "sub_path": "filament/Generic ABS @U1 base.json"
     },
     {
-      "name": "Generic ABS",
-      "sub_path": "filament/Generic ABS.json"
-    },
-    {
       "name": "Generic ABS @U1 0.2 nozzle",
       "sub_path": "filament/Generic ABS @U1 0.2 nozzle.json"
     },
@@ -1539,6 +1531,10 @@
     {
       "name": "Generic ABS @U1 0.8 nozzle",
       "sub_path": "filament/Generic ABS @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic ABS @U1 0.4 nozzle",
+      "sub_path": "filament/Generic ABS @U1 0.4 nozzle.json"
     },
     {
       "name": "Snapmaker PLA-CF @U1 0.4 nozzle",
