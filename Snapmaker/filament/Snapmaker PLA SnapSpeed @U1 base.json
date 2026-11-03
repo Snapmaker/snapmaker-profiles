@@ -138,9 +138,7 @@
   "filament_stamping_loading_speed": [
     "0"
   ],
-  "filament_vendor": [
-    "snapmaker"
-  ],
+  "filament_vendor": ["Snapmaker"],
   "filament_z_hop": [
     "nil"
   ],

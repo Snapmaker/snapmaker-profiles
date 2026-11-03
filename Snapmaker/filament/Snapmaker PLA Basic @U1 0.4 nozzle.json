@@ -2,38 +2,11 @@
     "type": "filament",
     "from": "system",
     "instantiation": "true",
-    "name": "Polymaker General PLA Family @U1",
-    "setting_id": "POLY_GENERAL_PLA_U1_001",
-    "inherits": "Polymaker General PLA Family @U1 base",
+    "name": "Snapmaker PLA Basic @U1 0.4 nozzle",
+    "setting_id": "1195313935011",
+    "inherits": "Snapmaker PLA Basic @U1 base",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
-    ],
-    "enable_pressure_advance": [
-        "0"
-    ],
-    "filament_max_volumetric_speed": [
-        "15"
-    ],
-    "filament_settings_id": [
-        "Polymaker General PLA Family @U1"
-    ],
-    "filament_vendor": [
-        "Polymaker"
-    ],
-    "nozzle_temperature_range_high": [
-        "230"
-    ],
-    "temperature_vitrification": [
-        "62"
-    ],
-    "textured_plate_temp": [
-        "65"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "65"
-    ],
-    "filament_type": [
-        "PLA"
     ],
     "activate_air_filtration": [
         "0"
@@ -69,13 +42,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
-    ],
-    "default_filament_colour": [
-        ""
+        "60"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -86,11 +56,14 @@
     "enable_overhang_bridge_fan": [
         "1"
     ],
-    "eng_plate_temp": [
+    "enable_pressure_advance": [
         "0"
     ],
+    "eng_plate_temp": [
+        "60"
+    ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "60"
     ],
     "fan_cooling_layer_time": [
         "100"
@@ -102,19 +75,19 @@
         "100"
     ],
     "filament_cooling_final_speed": [
-        "3.4"
+        "3.5"
     ],
     "filament_cooling_initial_speed": [
-        "2.2"
+        "10"
     ],
     "filament_cooling_moves": [
-        "4"
+        "2"
     ],
     "filament_cost": [
-        "20"
+        "25.4"
     ],
     "filament_density": [
-        "1.24"
+        "1.32"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -123,40 +96,37 @@
         "1.75"
     ],
     "filament_end_gcode": [
-        "; filament end gcode\n"
+        "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
         "0.98"
-    ],
-    "filament_flow_support": [
-        "standard"
-    ],
-    "filament_is_high_temperature": [
-        "0"
     ],
     "filament_is_support": [
         "0"
     ],
     "filament_loading_speed": [
-        "28"
+        "10"
     ],
     "filament_loading_speed_start": [
-        "3"
+        "50"
     ],
     "filament_long_retractions_when_cut": [
         "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
     "filament_multitool_ramming": [
-        "0"
+        "1"
     ],
     "filament_multitool_ramming_flow": [
-        "10"
+        "25"
     ],
     "filament_multitool_ramming_volume": [
-        "10"
+        "5"
     ],
     "filament_notes": [
         ""
@@ -165,9 +135,6 @@
         "120 100 6.6 6.8 7.2 7.6 7.9 8.2 8.7 9.4 9.9 10.0| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
     ],
     "filament_retract_before_wipe": [
-        "nil"
-    ],
-    "filament_retract_length_toolchange": [
         "nil"
     ],
     "filament_retract_lift_above": [
@@ -180,9 +147,6 @@
         "nil"
     ],
     "filament_retract_restart_extra": [
-        "nil"
-    ],
-    "filament_retract_restart_extra_toolchange": [
         "nil"
     ],
     "filament_retract_when_changing_layer": [
@@ -210,25 +174,28 @@
         "0"
     ],
     "filament_stamping_distance": [
-        "0"
+        "45"
     ],
     "filament_stamping_loading_speed": [
-        "0"
+        "29"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\n"
+        ""
     ],
     "filament_toolchange_delay": [
         "0"
     ],
-    "filament_tower_ironing_area": [
-        "4"
+    "filament_type": [
+        "PLA"
     ],
     "filament_unloading_speed": [
-        "90"
+        "100"
     ],
     "filament_unloading_speed_start": [
         "100"
+    ],
+    "filament_vendor": [
+        "Snapmaker"
     ],
     "filament_wipe": [
         "nil"
@@ -245,32 +212,24 @@
     "full_fan_speed_layer": [
         "0"
     ],
-    "graphic_effect_plate_temp": [
-        "0"
-    ],
-    "graphic_effect_plate_temp_initial_layer": [
-        "0"
-    ],
     "hot_plate_temp": [
-        "55"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "65"
     ],
     "idle_temperature": [
         "0"
     ],
-    "internal_bridge_fan_speed": [
-        "-1"
-    ],
-    "ironing_fan_speed": [
-        "-1"
-    ],
+    "is_custom_defined": "0",
     "nozzle_temperature": [
         "220"
     ],
     "nozzle_temperature_initial_layer": [
         "220"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
     ],
     "nozzle_temperature_range_low": [
         "190"
@@ -291,7 +250,7 @@
         "1"
     ],
     "required_nozzle_HRC": [
-        "3"
+        "0"
     ],
     "slow_down_for_layer_cooling": [
         "1"
@@ -300,16 +259,13 @@
         "4"
     ],
     "slow_down_min_speed": [
-        "10"
-    ],
-    "supertack_plate_temp": [
-        "45"
-    ],
-    "supertack_plate_temp_initial_layer": [
-        "45"
+        "20"
     ],
     "support_material_interface_fan_speed": [
         "-1"
+    ],
+    "temperature_vitrification": [
+        "45"
     ],
     "textured_cool_plate_temp": [
         "40"
@@ -317,20 +273,57 @@
     "textured_cool_plate_temp_initial_layer": [
         "40"
     ],
-    "version": "0.0.0.0",
-    "chamber_temperatures": [
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "filament_retract_length_toolchange": [
+        "10"
+    ],
+    "graphic_effect_plate_temp": [
+        "65"
+    ],
+    "graphic_effect_plate_temp_initial_layer": [
+        "65"
+    ],
+    "supertack_plate_temp": [
+        "40"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "40"
+    ],
+    "default_filament_colour": [
+        ""
+    ],
+    "filament_flow_support": [
+        "standard"
+    ],
+    "filament_is_high_temperature": [
         "0"
     ],
-    "filament_scarf_seam_type": [
-        "none"
+    "filament_retract_restart_extra_toolchange": [
+        "nil"
     ],
-    "filament_scarf_height": [
-        "10%"
+    "filament_settings_id": [
+        ""
     ],
-    "filament_scarf_gap": [
-        "15%"
+    "filament_tower_ironing_area": [
+        "4"
     ],
-    "filament_scarf_length": [
-        "10"
-    ]
+    "internal_bridge_fan_speed": [
+        "-1"
+    ],
+    "ironing_fan_speed": [
+        "-1"
+    ],
+    "version": "0.0.0.0",
+    "filament_load_time": [
+        "2"
+    ],
+    "filament_unload_time": [
+        "2"
+    ],
+    "renamed_from": "Snapmaker PLA Basic @U1"
 }

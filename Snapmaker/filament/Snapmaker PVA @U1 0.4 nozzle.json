@@ -2,7 +2,7 @@
   "type": "filament",
   "from": "system",
   "instantiation": "true",
-  "name": "Snapmaker PVA @U1",
+  "name": "Snapmaker PVA @U1 0.4 nozzle",
   "setting_id": "41452139080",
   "inherits": "Snapmaker PVA @U1 base",
   "compatible_printers": [
@@ -304,5 +304,6 @@
   "textured_cool_plate_temp_initial_layer": [
     "40"
   ],
-  "version": "0.0.0.0"
+  "version": "0.0.0.0",
+  "renamed_from": "Snapmaker PVA @U1"
 }

@@ -2,65 +2,140 @@
     "type": "filament",
     "from": "system",
     "instantiation": "true",
-    "name": "Generic PC",
-    "setting_id": "GFSC99",
-    "inherits": "Generic PC @U1 base",
+    "name": "Generic PETG-CF @U1 0.4 nozzle",
+    "setting_id": "GFSG50_021",
+    "inherits": "Generic PETG-CF @U1 base",
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "5"
+    ],
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
     ],
-    "eng_plate_temp": [
-        "100"
-    ],
-    "eng_plate_temp_initial_layer": [
-        "100"
-    ],
-    "hot_plate_temp": [
-        "100"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "100"
-    ],
-    "textured_plate_temp": [
-        "100"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "100"
-    ],
     "filament_end_gcode": [
         "\n"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "15"
     ],
     "filament_multitool_ramming": [
         "1"
     ],
     "filament_multitool_ramming_flow": [
-        "16"
+        "13"
     ],
     "filament_multitool_ramming_volume": [
         "0.5"
     ],
-    "filament_retract_length_toolchange": [
-        "10"
-    ],
     "filament_start_gcode": [
         ""
+    ],
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "pressure_advance": [
+        "0.02"
     ],
     "filament_vendor": [
         "Generic"
     ],
-    "nozzle_temperature_initial_layer": [
-        "280"
+    "filament_retract_length_toolchange": [
+        "10"
     ],
-    "filament_is_high_temperature": [
-        "1"
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "80"
+    ],
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "70"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "70"
+    ],
+    "filament_cooling_final_speed": [
+        "3.4"
+    ],
+    "filament_cooling_initial_speed": [
+        "2.2"
+    ],
+    "filament_cooling_moves": [
+        "4"
+    ],
+    "filament_cost": [
+        "34.99"
     ],
     "filament_flow_ratio": [
-        "0.94"
+        "0.95"
     ],
     "filament_flow_support": [
         "standard"
     ],
+    "filament_loading_speed": [
+        "28"
+    ],
+    "filament_loading_speed_start": [
+        "3"
+    ],
+    "filament_settings_id": [
+        ""
+    ],
+    "filament_unloading_speed": [
+        "90"
+    ],
+    "filament_unloading_speed_start": [
+        "100"
+    ],
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
     "pellet_flow_coefficient": [
         "0.4157"
+    ],
+    "supertack_plate_temp": [
+        "35"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "35"
+    ],
+    "temperature_vitrification": [
+        "70"
+    ],
+    "chamber_temperatures": [
+        "0"
     ],
     "activate_air_filtration": [
         "0"
@@ -86,18 +161,9 @@
     "chamber_temperature": [
         "0"
     ],
-    "chamber_temperatures": [
-        "0"
-    ],
-    "close_fan_the_first_x_layers": [
-        "3"
-    ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
-    "complete_print_exhaust_fan_speed": [
-        "70"
-    ],
     "cool_plate_temp": [
         "0"
     ],
@@ -110,38 +176,14 @@
     "dont_slow_down_outer_wall": [
         "0"
     ],
-    "during_print_exhaust_fan_speed": [
-        "70"
-    ],
     "enable_overhang_bridge_fan": [
         "1"
     ],
     "enable_pressure_advance": [
         "0"
     ],
-    "fan_cooling_layer_time": [
-        "30"
-    ],
-    "fan_max_speed": [
-        "60"
-    ],
-    "fan_min_speed": [
-        "10"
-    ],
-    "filament_cooling_final_speed": [
-        "3.4"
-    ],
-    "filament_cooling_initial_speed": [
-        "2.2"
-    ],
-    "filament_cooling_moves": [
-        "4"
-    ],
-    "filament_cost": [
-        "20"
-    ],
     "filament_density": [
-        "1.04"
+        "1.25"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -149,23 +191,14 @@
     "filament_diameter": [
         "1.75"
     ],
+    "filament_is_high_temperature": [
+        "0"
+    ],
     "filament_is_support": [
         "0"
     ],
-    "filament_loading_speed": [
-        "28"
-    ],
-    "filament_loading_speed_start": [
-        "3"
-    ],
     "filament_long_retractions_when_cut": [
         "nil"
-    ],
-    "filament_max_volumetric_speed": [
-        "16"
-    ],
-    "filament_minimal_purge_on_wipe_tower": [
-        "15"
     ],
     "filament_notes": [
         ""
@@ -206,9 +239,6 @@
     "filament_retraction_speed": [
         "nil"
     ],
-    "filament_settings_id": [
-        ""
-    ],
     "filament_shrink": [
         "100%"
     ],
@@ -231,13 +261,7 @@
         "4"
     ],
     "filament_type": [
-        "PC"
-    ],
-    "filament_unloading_speed": [
-        "90"
-    ],
-    "filament_unloading_speed_start": [
-        "100"
+        "PETG-CF"
     ],
     "filament_wipe": [
         "nil"
@@ -269,50 +293,26 @@
     "ironing_fan_speed": [
         "-1"
     ],
-    "nozzle_temperature": [
-        "280"
-    ],
-    "nozzle_temperature_range_high": [
-        "290"
-    ],
-    "nozzle_temperature_range_low": [
-        "260"
-    ],
-    "overhang_fan_speed": [
-        "60"
-    ],
     "overhang_fan_threshold": [
-        "25%"
-    ],
-    "pressure_advance": [
-        "0.02"
+        "10%"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
     ],
     "required_nozzle_HRC": [
-        "3"
+        "40"
     ],
     "slow_down_for_layer_cooling": [
         "1"
     ],
     "slow_down_layer_time": [
-        "2"
+        "6"
     ],
     "slow_down_min_speed": [
-        "20"
-    ],
-    "supertack_plate_temp": [
-        "35"
-    ],
-    "supertack_plate_temp_initial_layer": [
-        "35"
+        "10"
     ],
     "support_material_interface_fan_speed": [
         "-1"
-    ],
-    "temperature_vitrification": [
-        "120"
     ],
     "textured_cool_plate_temp": [
         "40"
@@ -320,5 +320,6 @@
     "textured_cool_plate_temp_initial_layer": [
         "40"
     ],
-    "version": "0.0.0.0"
+    "version": "0.0.0.0",
+    "renamed_from": "Generic PETG-CF"
 }
