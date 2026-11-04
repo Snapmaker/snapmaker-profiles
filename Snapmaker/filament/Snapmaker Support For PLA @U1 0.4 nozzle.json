@@ -15,9 +15,7 @@
     "100"
   ],
   "filament_flow_ratio": ["1", "0.95"],
-  "filament_minimal_purge_on_wipe_tower": [
-    "20"
-  ],
+  "filament_minimal_purge_on_wipe_tower": ["15", "15"],
   "filament_multitool_ramming_flow": [
     "20"
   ],

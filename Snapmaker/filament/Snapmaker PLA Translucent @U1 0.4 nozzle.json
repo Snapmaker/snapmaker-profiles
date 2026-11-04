@@ -61,9 +61,7 @@
     "filament_max_volumetric_speed": [
         "12"
     ],
-    "filament_minimal_purge_on_wipe_tower": [
-        "50"
-    ],
+    "filament_minimal_purge_on_wipe_tower": ["15", "15"],
     "filament_multitool_ramming": [
         "1"
     ],

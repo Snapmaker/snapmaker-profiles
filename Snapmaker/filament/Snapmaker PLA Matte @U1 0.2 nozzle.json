@@ -95,9 +95,7 @@
     "filament_loading_speed_start": [
         "50"
     ],
-    "filament_minimal_purge_on_wipe_tower": [
-        "5"
-    ],
+    "filament_minimal_purge_on_wipe_tower": ["15", "15"],
     "filament_multitool_ramming_flow": [
         "4"
     ],
@@ -137,7 +135,5 @@
     "supertack_plate_temp_initial_layer": [
         "40"
     ],
-    "filament_flow_support": [
-        "standard"
-    ]
+    "filament_flow_support": ["standard", "high_flow"]
 }

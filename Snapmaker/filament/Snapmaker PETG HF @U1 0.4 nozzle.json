@@ -35,10 +35,7 @@
         "20",
         "30"
     ],
-    "filament_minimal_purge_on_wipe_tower": [
-        "50",
-        "50"
-    ],
+    "filament_minimal_purge_on_wipe_tower": ["15", "15"],
     "filament_multitool_ramming": [
         "1",
         "1"
@@ -126,10 +123,7 @@
         "nil",
         "1"
     ],
-    "filament_flow_support": [
-        "standard",
-        "high_flow"
-    ],
+    "filament_flow_support": ["standard", "high_flow"],
     "supertack_plate_temp": [
         "60"
     ],
