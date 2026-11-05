@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.01",
+  "version": "02.03.06.02",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -531,6 +531,18 @@
     {
       "name": "fdm_filament_common",
       "sub_path": "filament/fdm_filament_common.json"
+    },
+    {
+      "name": "fdm_filament_nylon_category",
+      "sub_path": "filament/fdm_filament_nylon_category.json"
+    },
+    {
+      "name": "Snapmaker Nylon @Artisan base",
+      "sub_path": "filament/Snapmaker Nylon @Artisan base.json"
+    },
+    {
+      "name": "Snapmaker Nylon @Artisan 0.4 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @Artisan 0.4 nozzle.json"
     },
     {
       "name": "fdm_filament_abs_category",
