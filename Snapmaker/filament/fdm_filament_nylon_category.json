@@ -1,0 +1,7 @@
+{
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "name": "fdm_filament_nylon_category",
+  "inherits": "fdm_filament_common"
+}
