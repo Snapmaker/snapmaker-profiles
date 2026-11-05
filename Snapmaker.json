@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.00",
+  "version": "02.03.06.01",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -595,6 +595,14 @@
     {
       "name": "fdm_filament_petg_category",
       "sub_path": "filament/fdm_filament_petg_category.json"
+    },
+    {
+      "name": "Snapmaker PETG @Artisan base",
+      "sub_path": "filament/Snapmaker PETG @Artisan base.json"
+    },
+    {
+      "name": "Snapmaker PETG @Artisan 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PETG @Artisan 0.4 nozzle.json"
     },
     {
       "name": "fdm_filament_peba_category",
