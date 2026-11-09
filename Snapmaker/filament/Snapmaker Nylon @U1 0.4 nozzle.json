@@ -65,5 +65,6 @@
   "slow_down_layer_time": ["8"],
   "temperature_vitrification": ["108"],
   "textured_plate_temp": ["100"],
-  "textured_plate_temp_initial_layer": ["100"]
+  "textured_plate_temp_initial_layer": ["100"],
+  "chamber_temperature": "60"
 }
