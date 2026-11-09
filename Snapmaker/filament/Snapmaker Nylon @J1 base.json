@@ -1,0 +1,10 @@
+{
+  "filament_type": ["Nylon"],
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "GFN99",
+  "name": "Snapmaker Nylon @J1 base",
+  "inherits": "fdm_filament_nylon_category"
+}
