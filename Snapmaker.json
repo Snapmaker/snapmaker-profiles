@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.14",
+  "version": "02.03.06.15",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -535,6 +535,14 @@
     {
       "name": "fdm_filament_nylon_category",
       "sub_path": "filament/fdm_filament_nylon_category.json"
+    },
+    {
+      "name": "Snapmaker Nylon @U1 base",
+      "sub_path": "filament/Snapmaker Nylon @U1 base.json"
+    },
+    {
+      "name": "Snapmaker Nylon @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @U1 0.4 nozzle.json"
     },
     {
       "name": "Snapmaker Nylon @J1 base",
