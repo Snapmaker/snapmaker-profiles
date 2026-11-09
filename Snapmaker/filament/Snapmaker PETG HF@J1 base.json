@@ -1,0 +1,10 @@
+{
+  "filament_type": ["PETG"],
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "GFG99",
+  "name": "Snapmaker PETG HF@J1 base",
+  "inherits": "fdm_filament_petg_category"
+}
