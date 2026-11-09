@@ -21,7 +21,7 @@
   "filament_deretraction_speed": ["nil", "40"],
   "filament_end_gcode": [""],
   "filament_flow_ratio": ["0.95", "0.955"],
-  "filament_flow_support": ["standard", "high_flow"],
+  "filament_flow_support": ["standard"],
   "filament_long_retractions_when_cut": ["nil"],
   "filament_max_volumetric_speed": ["12","30"],
   "filament_multitool_ramming": ["1", "1"],
