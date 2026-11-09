@@ -1,6 +1,6 @@
 {
 	"vendor": "Snapmaker",
-	"updated_date": "2026-10-08",
+	"updated_date": "2026-11-02",
 	"filaments": [
 		{
 			"filament_id": "1682237920",
@@ -2437,6 +2437,177 @@
 					"color_name": {
 						"en": "Pastel Rainbow",
 						"zh_CN": "柔和彩虹"
+					},
+					"enabled": true
+				}
+			]
+		},
+		{
+			"filament_id": "PLA_STARLIGHT_001",
+			"filament_name": "Snapmaker PLA Starlight @U1",
+			"filament_type": "PLA Starlight",
+			"enabled": true,
+			"filament_color": [
+				{
+					"sku": "34363",
+					"mode": 0,
+					"filament_color": [
+						"#5D3754"
+					],
+					"color_name": {
+						"en": "Stellar Plum",
+						"zh_CN": "星辉梅紫"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34364",
+					"mode": 0,
+					"filament_color": [
+						"#13294B"
+					],
+					"color_name": {
+						"en": "Stellar Indigo",
+						"zh_CN": "星辉靛蓝"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34365",
+					"mode": 0,
+					"filament_color": [
+						"#4E4934"
+					],
+					"color_name": {
+						"en": "Stellar Olive",
+						"zh_CN": "星辉橄榄"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34366",
+					"mode": 0,
+					"filament_color": [
+						"#18332F"
+					],
+					"color_name": {
+						"en": "Stellar Teal",
+						"zh_CN": "星辉深青"
+					},
+					"enabled": true
+				}
+			]
+		},
+		{
+			"filament_id": "PLA_MARBLE_001",
+			"filament_name": "Snapmaker PLA Marble @U1",
+			"filament_type": "PLA Marble",
+			"enabled": true,
+			"filament_color": [
+				{
+					"sku": "34354",
+					"mode": 0,
+					"filament_color": [
+						"#D7D1C7"
+					],
+					"color_name": {
+						"en": "Beige Granite",
+						"zh_CN": "米色花岗岩"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34355",
+					"mode": 0,
+					"filament_color": [
+						"#CCD5DA"
+					],
+					"color_name": {
+						"en": "White Granite",
+						"zh_CN": "白色花岗岩"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34356",
+					"mode": 0,
+					"filament_color": [
+						"#944B37"
+					],
+					"color_name": {
+						"en": "Red Granite",
+						"zh_CN": "红色花岗岩"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34357",
+					"mode": 0,
+					"filament_color": [
+						"#B6CFCA"
+					],
+					"color_name": {
+						"en": "Green Granite",
+						"zh_CN": "绿色花岗岩"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34358",
+					"mode": 0,
+					"filament_color": [
+						"#CDC4CB"
+					],
+					"color_name": {
+						"en": "Pink Granite",
+						"zh_CN": "粉色花岗岩"
+					},
+					"enabled": true
+				}
+			]
+		},
+		{
+			"filament_id": "PLA_GRADIENT_001",
+			"filament_name": "Snapmaker PLA Gradient @U1",
+			"filament_type": "PLA Gradient",
+			"enabled": true,
+			"filament_color": [
+				{
+					"sku": "34373",
+					"mode": 1,
+					"filament_color": [
+						"#FFFFFF",
+						"#D65445"
+					],
+					"color_name": {
+						"en": "Coral Mist",
+						"zh_CN": "珊瑚薄雾"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34374",
+					"mode": 1,
+					"filament_color": [
+						"#FFFFFF",
+						"#A8D8D7"
+					],
+					"color_name": {
+						"en": "Mint Frost",
+						"zh_CN": "薄荷霜色"
+					},
+					"enabled": true
+				},
+				{
+					"sku": "34375",
+					"mode": 1,
+					"filament_color": [
+						"#88FBA3",
+						"#467DDA"
+					],
+					"color_name": {
+						"en": "Blue Lagoon",
+						"zh_CN": "蓝绿湖光"
 					},
 					"enabled": true
 				}
