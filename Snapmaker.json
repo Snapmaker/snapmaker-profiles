@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.46",
+  "version": "02.03.06.47",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -747,6 +747,10 @@
     {
       "name": "Snapmaker PLA Marble @U1 0.6 nozzle",
       "sub_path": "filament/Snapmaker PLA Marble @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Marble @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PLA Marble @U1 0.8 nozzle.json"
     },
     {
       "name": "Snapmaker PLA Gradient @U1 base",
