@@ -1,0 +1,10 @@
+{
+  "filament_type": ["PLA"],
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "1",
+  "name": "Snapmaker PLA Starlight @U1 base",
+  "inherits": "fdm_filament_pla_category"
+}

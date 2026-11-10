@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.37",
+  "version": "02.03.06.38",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -735,6 +735,14 @@
     {
       "name": "fdm_filament_pla_category",
       "sub_path": "filament/fdm_filament_pla_category.json"
+    },
+    {
+      "name": "Snapmaker PLA Starlight @U1 base",
+      "sub_path": "filament/Snapmaker PLA Starlight @U1 base.json"
+    },
+    {
+      "name": "Snapmaker PLA Starlight @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PLA Starlight @U1 0.4 nozzle.json"
     },
     {
       "name": "fdm_filament_pla_cf_category",
