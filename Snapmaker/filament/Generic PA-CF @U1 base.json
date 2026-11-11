@@ -3,5 +3,6 @@
     "from": "system",
     "instantiation": "false",
     "name": "Generic PA-CF @U1 base",
-    "inherits": "fdm_filament_pa_cf_category"
+    "inherits": "fdm_filament_pa_cf_category",
+    "filament_id": "GFN98"
 }

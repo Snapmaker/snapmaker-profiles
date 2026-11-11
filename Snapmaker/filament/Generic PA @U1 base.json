@@ -3,5 +3,6 @@
     "from": "system",
     "instantiation": "false",
     "name": "Generic PA @U1 base",
-    "inherits": "fdm_filament_pa_category"
+    "inherits": "fdm_filament_pa_category",
+    "filament_id": "GFN99"
 }
