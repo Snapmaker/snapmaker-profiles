@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.49",
+  "version": "02.03.06.50",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -595,6 +595,10 @@
     {
       "name": "Generic PA @U1 0.4 nozzle",
       "sub_path": "filament/Generic PA @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PA @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PA @U1 0.6 nozzle.json"
     },
     {
       "name": "fdm_filament_pa_cf_category",
