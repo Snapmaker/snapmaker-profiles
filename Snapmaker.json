@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.48",
+  "version": "02.03.06.49",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -631,6 +631,10 @@
     {
       "name": "Generic PVA @U1 0.6 nozzle",
       "sub_path": "filament/Generic PVA @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PVA @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PVA @U1 0.8 nozzle.json"
     },
     {
       "name": "fdm_filament_petg_category",
