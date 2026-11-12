@@ -40,14 +40,8 @@
         "1",
         "1"
     ],
-    "filament_multitool_ramming_flow": [
-        "20",
-        "30"
-    ],
-    "filament_multitool_ramming_volume": [
-        "5",
-        "8"
-    ],
+    "filament_multitool_ramming_flow": ["20","45"],
+    "filament_multitool_ramming_volume": ["5","10"],
     "filament_start_gcode": [
         ""
     ],
@@ -71,10 +65,7 @@
     "filament_vendor": [
         "Snapmaker"
     ],
-    "filament_retract_length_toolchange": [
-        "5",
-        "8"
-    ],
+    "filament_retract_length_toolchange": ["5","10"],
     "textured_plate_temp": [
         "70"
     ],
@@ -85,10 +76,7 @@
         "10",
         "0"
     ],
-    "nozzle_temperature_initial_layer": [
-        "245",
-        "230"
-    ],
+    "nozzle_temperature_initial_layer": ["245","245"],
     "graphic_effect_plate_temp": [
         "0"
     ],

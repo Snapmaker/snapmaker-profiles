@@ -9,18 +9,12 @@
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
     ],
-    "filament_multitool_ramming_volume": [
-        "5"
-    ],
+    "filament_multitool_ramming_volume": ["5","0.01"],
     "fan_cooling_layer_time": [
         "40"
     ],
-    "fan_max_speed": [
-        "50"
-    ],
-    "fan_min_speed": [
-        "10"
-    ],
+    "fan_max_speed": ["50","100"],
+    "fan_min_speed": ["10","100"],
     "filament_deretraction_speed": [
         "40"
     ],
@@ -30,12 +24,8 @@
     "filament_max_volumetric_speed": [
         "9"
     ],
-    "filament_multitool_ramming_flow": [
-        "15"
-    ],
-    "filament_retract_length_toolchange": [
-        "3.6"
-    ],
+    "filament_multitool_ramming_flow": ["15","10"],
+    "filament_retract_length_toolchange": ["3.6","10"],
     "filament_retraction_length": [
         "1.5"
     ],
@@ -51,9 +41,7 @@
     "overhang_fan_threshold": [
         "25%"
     ],
-    "pressure_advance": [
-        "0.23"
-    ],
+    "pressure_advance": ["0.23","0.205"],
     "slow_down_layer_time": [
         "10"
     ],
@@ -66,10 +54,10 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "filament_flow_support": [
-        "standard"
-    ],
+    "filament_flow_support": ["standard","high_flow"],
     "pellet_flow_coefficient": [
         "0.4157"
-    ]
+    ],
+    "enable_pressure_advance": ["0","1"],
+    "filament_z_hop_types": ["Slope Lift","Spiral Lift"]
 }

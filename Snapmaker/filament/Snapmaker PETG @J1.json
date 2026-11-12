@@ -153,9 +153,7 @@
   "supertack_plate_temp_initial_layer": [
     "35"
   ],
-  "temperature_vitrification": [
-    "178"
-  ],
+  "temperature_vitrification": ["70"],
   "textured_plate_temp": [
     "0"
   ],

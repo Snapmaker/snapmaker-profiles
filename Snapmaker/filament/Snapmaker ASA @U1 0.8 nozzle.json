@@ -44,9 +44,7 @@
   "filament_loading_speed_start": [
     "3"
   ],
-  "filament_max_volumetric_speed": [
-    "18"
-  ],
+  "filament_max_volumetric_speed": ["16"],
   "filament_minimal_purge_on_wipe_tower": [
     "15"
   ],

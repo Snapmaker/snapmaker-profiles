@@ -29,12 +29,8 @@
   "filament_density": [
     "1.21"
   ],
-  "filament_flow_ratio": [
-    "0.96"
-  ],
-  "filament_max_volumetric_speed": [
-    "16"
-  ],
+  "filament_flow_ratio": ["0.96","0.97"],
+  "filament_max_volumetric_speed": ["16","40"],
   "filament_multitool_ramming": [
     "1"
   ],
@@ -97,5 +93,7 @@
   ],
   "textured_plate_temp_initial_layer": [
     "65"
-  ]
+  ],
+  "enable_pressure_advance": ["0","1"],
+  "filament_flow_support": ["standard","high_flow"]
 }

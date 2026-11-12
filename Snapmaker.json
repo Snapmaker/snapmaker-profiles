@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.06.00",
+  "version": "02.03.07.00",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -533,6 +533,42 @@
       "sub_path": "filament/fdm_filament_common.json"
     },
     {
+      "name": "fdm_filament_nylon_category",
+      "sub_path": "filament/fdm_filament_nylon_category.json"
+    },
+    {
+      "name": "Snapmaker Nylon @U1 base",
+      "sub_path": "filament/Snapmaker Nylon @U1 base.json"
+    },
+    {
+      "name": "Snapmaker Nylon @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker Nylon @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker Nylon @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Snapmaker Nylon @J1 base",
+      "sub_path": "filament/Snapmaker Nylon @J1 base.json"
+    },
+    {
+      "name": "Snapmaker Nylon @J1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @J1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker Nylon @Artisan base",
+      "sub_path": "filament/Snapmaker Nylon @Artisan base.json"
+    },
+    {
+      "name": "Snapmaker Nylon @Artisan 0.4 nozzle",
+      "sub_path": "filament/Snapmaker Nylon @Artisan 0.4 nozzle.json"
+    },
+    {
       "name": "fdm_filament_abs_category",
       "sub_path": "filament/fdm_filament_abs_category.json"
     },
@@ -561,6 +597,14 @@
       "sub_path": "filament/Generic PA @U1 0.4 nozzle.json"
     },
     {
+      "name": "Generic PA @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PA @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PA @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PA @U1 0.8 nozzle.json"
+    },
+    {
       "name": "fdm_filament_pa_cf_category",
       "sub_path": "filament/fdm_filament_pa_cf_category.json"
     },
@@ -571,6 +615,14 @@
     {
       "name": "Generic PA-CF @U1 0.4 nozzle",
       "sub_path": "filament/Generic PA-CF @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PA-CF @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PA-CF @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PA-CF @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PA-CF @U1 0.8 nozzle.json"
     },
     {
       "name": "fdm_filament_pc_category",
@@ -593,8 +645,60 @@
       "sub_path": "filament/Generic PVA @U1 0.4 nozzle.json"
     },
     {
+      "name": "Generic PVA @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PVA @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PVA @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PVA @U1 0.8 nozzle.json"
+    },
+    {
       "name": "fdm_filament_petg_category",
       "sub_path": "filament/fdm_filament_petg_category.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @J1 base",
+      "sub_path": "filament/Snapmaker PETG HF @J1 base.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @Artisan base",
+      "sub_path": "filament/Snapmaker PETG HF @Artisan base.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @J1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PETG HF @J1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG @U1 base",
+      "sub_path": "filament/Snapmaker PETG @U1 base.json"
+    },
+    {
+      "name": "Snapmaker PETG @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker PETG @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PETG @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker PETG @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PETG @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @Artisan 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PETG HF @Artisan 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG @Artisan base",
+      "sub_path": "filament/Snapmaker PETG @Artisan base.json"
+    },
+    {
+      "name": "Snapmaker PETG @Artisan 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PETG @Artisan 0.4 nozzle.json"
     },
     {
       "name": "fdm_filament_peba_category",
@@ -655,6 +759,58 @@
     {
       "name": "fdm_filament_pla_category",
       "sub_path": "filament/fdm_filament_pla_category.json"
+    },
+    {
+      "name": "Snapmaker PLA Marble @U1 base",
+      "sub_path": "filament/Snapmaker PLA Marble @U1 base.json"
+    },
+    {
+      "name": "Snapmaker PLA Marble @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PLA Marble @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Marble @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker PLA Marble @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Marble @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PLA Marble @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Gradient @U1 base",
+      "sub_path": "filament/Snapmaker PLA Gradient @U1 base.json"
+    },
+    {
+      "name": "Snapmaker PLA Gradient @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker PLA Gradient @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Gradient @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PLA Gradient @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Gradient @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker PLA Gradient @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Gradient @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PLA Gradient @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Starlight @U1 base",
+      "sub_path": "filament/Snapmaker PLA Starlight @U1 base.json"
+    },
+    {
+      "name": "Snapmaker PLA Starlight @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PLA Starlight @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Starlight @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker PLA Starlight @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA Starlight @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PLA Starlight @U1 0.8 nozzle.json"
     },
     {
       "name": "fdm_filament_pla_cf_category",
@@ -819,6 +975,10 @@
     {
       "name": "Snapmaker PETG @J1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PETG @J1 0.8 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG @J1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker PETG @J1 0.4 nozzle.json"
     },
     {
       "name": "Snapmaker PET @J1",

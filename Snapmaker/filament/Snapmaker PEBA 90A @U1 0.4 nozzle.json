@@ -29,12 +29,8 @@
   "filament_density": [
     "1.21"
   ],
-  "filament_flow_ratio": [
-    "1.045"
-  ],
-  "filament_max_volumetric_speed": [
-    "5"
-  ],
+  "filament_flow_ratio": ["1.045","1.02"],
+  "filament_max_volumetric_speed": ["5","8"],
   "filament_multitool_ramming": [
     "1"
   ],
@@ -68,9 +64,7 @@
   "nozzle_temperature_range_low": [
     "200"
   ],
-  "pressure_advance": [
-    "0.4"
-  ],
+  "pressure_advance": ["0.4","0.38"],
   "reduce_fan_stop_start_freq": [
     "1"
   ],
@@ -91,5 +85,7 @@
   ],
   "textured_plate_temp_initial_layer": [
     "100"
-  ]
+  ],
+  "enable_pressure_advance": ["0","1"],
+  "filament_flow_support": ["standard","high_flow"]
 }

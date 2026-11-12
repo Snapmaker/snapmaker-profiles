@@ -1,0 +1,10 @@
+{
+  "compatible_printers": ["Snapmaker J1 (0.4 nozzle)", "Snapmaker J1 (0.6 nozzle)"],
+  "instantiation": "true",
+  "type": "filament",
+  "from": "Snapmaker",
+  "name": "Snapmaker PETG @J1 0.4 nozzle",
+  "inherits": "Snapmaker PETG @J1 base",
+  "filament_settings_id": ["对比：J1-petg（新旧同一套，同旧参数）"],
+  "temperature_vitrification": ["70"]
+}

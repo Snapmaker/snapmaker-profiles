@@ -1,0 +1,10 @@
+{
+  "filament_type": ["PLA"],
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "3",
+  "name": "Snapmaker PLA Marble @U1 base",
+  "inherits": "fdm_filament_pla_category"
+}
