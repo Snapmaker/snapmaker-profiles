@@ -36,7 +36,7 @@
   "textured_plate_temp": ["65"],
   "textured_plate_temp_initial_layer": ["65"],
   "filament_deretraction_speed": ["nil","0"],
-  "filament_retract_before_wipe": "0%",
+  "filament_retract_before_wipe": ["nil"],
   "filament_retract_lift_below": ["nil"],
   "filament_retraction_minimum_travel": ["nil"],
   "filament_wipe_distance": ["nil","1"],
