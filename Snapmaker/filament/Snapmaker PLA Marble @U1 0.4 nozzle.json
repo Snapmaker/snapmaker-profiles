@@ -42,5 +42,5 @@
   "filament_wipe_distance": ["2","2"],
   "enable_pressure_advance": ["0","1"],
   "filament_flow_support": ["standard","high_flow"],
-  "filament_z_hop_types": ["nil","Slope Lift"]
+  "filament_z_hop_types": ["Slope Lift","Slope Lift"]
 }
