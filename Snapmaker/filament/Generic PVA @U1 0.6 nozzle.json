@@ -53,5 +53,5 @@
   "pellet_flow_coefficient": ["0.4157"],
   "slow_down_layer_time": ["7"],
   "chamber_temperatures": ["0"],
-  "renamed_from": "Generic PVA"
+  "renamed_from": ""
 }
