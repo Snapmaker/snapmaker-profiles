@@ -201,5 +201,6 @@
     "default_bed_type": "Textured PEI Plate",
     "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nSET_PRINT_STATS_INFO TOTAL_LAYER={total_layer_count} CURRENT_LAYER={layer_num+1}",
     "nozzle_volume": "143",
-    "printer_flow_support": ["standard", "high_flow"]
+    "printer_flow_support": ["standard", "high_flow"],
+    "default_filament_profile": ["Generic PLA @U1 0.4 nozzle"]
 }
