@@ -74,5 +74,5 @@
   "graphic_effect_plate_temp_initial_layer": [
     "70"
   ],
-  "filament_adhesiveness_category": "805"
+  "filament_adhesiveness_category": ["805"]
 }

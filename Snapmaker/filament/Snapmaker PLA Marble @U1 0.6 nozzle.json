@@ -42,5 +42,5 @@
   "filament_retraction_minimum_travel": ["nil"],
   "filament_wipe": ["nil"],
   "filament_z_hop_types": ["Slope Lift","Slope Lift"],
-  "slow_down_for_layer_cooling": "1"
+  "slow_down_for_layer_cooling": ["1"]
 }
