@@ -21,7 +21,7 @@
   "fan_cooling_layer_time": ["65"],
   "fan_max_speed": ["85"],
   "fan_min_speed": ["40"],
-  "filament_adhesiveness_category": ["200"],
+  "filament_adhesiveness_category": ["400"],
   "filament_cooling_final_speed": ["60"],
   "filament_cooling_initial_speed": ["35"],
   "filament_cooling_moves": ["2"],
