@@ -35,11 +35,11 @@
   "temperature_vitrification": ["45"],
   "textured_plate_temp": ["65"],
   "textured_plate_temp_initial_layer": ["65"],
-  "filament_deretraction_speed": ["30", "0"],
-  "filament_retract_before_wipe": "0%",
-  "filament_retract_lift_below": "269",
-  "filament_retract_when_changing_layer": "0",
+  "filament_deretraction_speed": ["nil","0"],
+  "filament_retract_before_wipe": ["nil"],
+  "filament_retract_lift_below": ["nil"],
+  "filament_retract_when_changing_layer": ["nil"],
   "filament_retraction_minimum_travel": "3",
-  "filament_wipe": "0",
+  "filament_wipe": ["nil"],
   "filament_z_hop_types": ["Auto Lift", "Slope Lift"]
 }
