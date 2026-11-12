@@ -20,7 +20,7 @@
   "fan_cooling_layer_time": ["65"],
   "fan_max_speed": ["85"],
   "fan_min_speed": ["40"],
-  "filament_adhesiveness_category": ["200"],
+  "filament_adhesiveness_category": ["400"],
   "filament_cost": ["20"],
   "filament_density": ["1.04"],
   "filament_deretraction_speed": ["nil"],
