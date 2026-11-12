@@ -38,9 +38,9 @@
   "filament_deretraction_speed": ["30", "0"],
   "filament_retract_before_wipe": "0%",
   "filament_retract_lift_below": "269",
-  "filament_retract_when_changing_layer": "0",
+  "filament_retract_when_changing_layer": ["nil"],
   "filament_retraction_minimum_travel": "3",
-  "filament_wipe": "0",
+  "filament_wipe": ["nil"],
   "filament_z_hop_types": ["Slope Lift","Slope Lift"],
   "slow_down_for_layer_cooling": "1"
 }
