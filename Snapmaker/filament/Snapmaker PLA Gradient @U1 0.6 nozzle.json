@@ -39,7 +39,7 @@
   "filament_retract_before_wipe": ["nil"],
   "filament_retract_lift_below": ["nil"],
   "filament_retract_when_changing_layer": ["nil"],
-  "filament_retraction_minimum_travel": "3",
+  "filament_retraction_minimum_travel": ["nil"],
   "filament_wipe": ["nil"],
   "filament_z_hop_types": ["Auto Lift", "Slope Lift"]
 }
