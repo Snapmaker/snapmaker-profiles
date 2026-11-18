@@ -87,5 +87,5 @@
     "100"
   ],
   "enable_pressure_advance": ["0","1"],
-  "filament_flow_support": ["standard","high_flow"]
+  "filament_flow_support": ["standard"]
 }

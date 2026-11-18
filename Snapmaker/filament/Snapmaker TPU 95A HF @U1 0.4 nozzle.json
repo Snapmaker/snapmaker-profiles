@@ -54,7 +54,7 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "filament_flow_support": ["standard","high_flow"],
+    "filament_flow_support": ["standard"],
     "pellet_flow_coefficient": [
         "0.4157"
     ],
