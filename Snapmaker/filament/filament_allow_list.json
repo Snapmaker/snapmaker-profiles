@@ -3,7 +3,7 @@
   "sections": {
     "high_flow": {
       "not_recommended_filaments": ["PLA Wood"],
-      "unavailable_filaments": ["TPU 85A", "TPU 90A", "TPU 95A HF", "PEBA 90A"]
+      "unavailable_filaments": ["TPU", "PEBA 90A"]
     },
     "filament_order": {
       "Snapmaker": [
