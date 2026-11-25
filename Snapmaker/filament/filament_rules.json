@@ -94,6 +94,18 @@
           "ABS",
           "ASA"
       ]
+    },
+    "support_filament": {
+      "default_recommendations": [
+          "support_top_z_distance=0",
+          "support_interface_pattern=rectilinear_interlaced",
+          "support_interface_spacing=0",
+          "independent_support_layer_height=false"
+      ],
+      "support_pla_recommendations": [
+          "support_interface_top_layers=4",
+          "support_object_xy_distance=0.3"
+      ]
     }
   }
 }
