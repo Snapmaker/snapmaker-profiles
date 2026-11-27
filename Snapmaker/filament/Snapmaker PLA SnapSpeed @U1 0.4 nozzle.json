@@ -181,12 +181,8 @@
         "standard",
         "high_flow"
     ],
-    "supertack_plate_temp": [
-        "40"
-    ],
-    "supertack_plate_temp_initial_layer": [
-        "40"
-    ],
+    "supertack_plate_temp": ["45"],
+    "supertack_plate_temp_initial_layer": ["45"],
     "filament_load_time": [
         "2"
     ],
