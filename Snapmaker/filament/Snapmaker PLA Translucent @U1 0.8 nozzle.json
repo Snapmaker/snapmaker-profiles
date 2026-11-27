@@ -142,11 +142,7 @@
     "filament_flow_support": [
         "standard"
     ],
-    "supertack_plate_temp": [
-        "35"
-    ],
-    "supertack_plate_temp_initial_layer": [
-        "35"
-    ],
+    "supertack_plate_temp": ["45"],
+    "supertack_plate_temp_initial_layer": ["45"],
     "close_fan_the_first_x_layers": ["3"]
 }
