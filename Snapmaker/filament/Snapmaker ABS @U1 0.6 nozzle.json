@@ -122,11 +122,7 @@
   "slow_down_min_speed": [
     "20"
   ],
-  "supertack_plate_temp": [
-    "35"
-  ],
-  "supertack_plate_temp_initial_layer": [
-    "35"
-  ],
+  "supertack_plate_temp": ["0"],
+  "supertack_plate_temp_initial_layer": ["0"],
   "filament_is_high_temperature": ["1"]
 }
