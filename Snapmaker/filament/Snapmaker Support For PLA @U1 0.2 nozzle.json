@@ -62,12 +62,8 @@
   "pellet_flow_coefficient": [
     "0.4157"
   ],
-  "supertack_plate_temp": [
-    "40"
-  ],
-  "supertack_plate_temp_initial_layer": [
-    "40"
-  ],
+  "supertack_plate_temp": ["45"],
+  "supertack_plate_temp_initial_layer": ["45"],
   "graphic_effect_plate_temp": [
     "70"
   ],

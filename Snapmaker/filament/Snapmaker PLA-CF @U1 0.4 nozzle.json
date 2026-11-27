@@ -67,12 +67,8 @@
     "fan_max_speed": ["100", "100"],
     "additional_cooling_fan_speed": ["0", "100"],
     "filament_flow_support": ["standard", "high_flow"],
-    "supertack_plate_temp": [
-        "40"
-    ],
-    "supertack_plate_temp_initial_layer": [
-        "40"
-    ],
+    "supertack_plate_temp": ["45"],
+    "supertack_plate_temp_initial_layer": ["45"],
     "filament_cost": [
         "20"
     ],
